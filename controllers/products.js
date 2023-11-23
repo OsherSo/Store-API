@@ -1,4 +1,4 @@
-const getAllProducts = async (req, res, next) => {
+const getAllProducts = async (req, res) => {
   res.send("getAllProducts");
 };
 
